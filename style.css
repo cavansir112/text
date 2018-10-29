@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.continer{
+    background-color: blue;
+    width: 400px;
+    height: 600px;
+}
+h1{
+    font-size: 30px;
+    color: antiquewhite;
+}
